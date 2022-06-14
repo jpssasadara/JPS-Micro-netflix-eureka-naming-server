@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.netflixeurekanamingserver;
+package com.jps.microservices.netflixeurekanamingserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
