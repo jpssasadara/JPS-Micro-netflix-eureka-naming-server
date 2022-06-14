@@ -1,0 +1,1 @@
+# JPS-Micro-netflix-eureka-naming-server
